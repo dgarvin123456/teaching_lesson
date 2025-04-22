@@ -1,0 +1,4 @@
+```{r}
+library(ggmap)
+register_stadiamaps("you_API_KEY", write = FALSE)
+```
